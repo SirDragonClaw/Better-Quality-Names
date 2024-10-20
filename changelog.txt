@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2024-10-19
+  Major Features:
+    - Initial version.
+    - A small mod to rebrand quality levels with industrial-grade denominations to better fit the factory-driven theme of Factorio. After all, it's a factory-building game, not an RPG: 'Efficiency Module Advanced' sounds much more fitting than 'Efficiency Module Epic' to me.

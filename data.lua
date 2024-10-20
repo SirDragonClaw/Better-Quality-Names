@@ -1,0 +1,5 @@
+data.raw["quality"]["normal"].localised_name = "Basic"
+data.raw["quality"]["uncommon"].localised_name = "Tuned"
+data.raw["quality"]["rare"].localised_name = "Refined"
+data.raw["quality"]["epic"].localised_name = "Precision"
+data.raw["quality"]["legendary"].localised_name = "Superior"
