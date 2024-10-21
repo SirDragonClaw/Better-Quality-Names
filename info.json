@@ -1,9 +1,9 @@
 {
   "name": "better-quality-names",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "title": "Better Quality Names",
   "description": "Rebrand quality levels with industrial-grade denominations to align with Factorio's mechanical aesthetic.",
   "author": "SirDragonClaw",
   "factorio_version": "2.0",
-  "dependencies": [ "base >= 2.0" ]
+  "dependencies": ["base >= 2.0.0", "quality >= 2.0.0"]
 }
